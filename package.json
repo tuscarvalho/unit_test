@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dinero.js": "^1.9.1"
+  },
+  "devDependencies": {
+    "ndb": "^1.1.5"
+  }
+}
