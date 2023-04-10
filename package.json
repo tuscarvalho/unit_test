@@ -1,8 +1,27 @@
 {
+  "name": "unit_test",
+  "description": "Repository about unit test using JEST/VUE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuscarvalho/unit_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuscarvalho/unit_test/issues"
+  },
   "dependencies": {
-    "dinero.js": "^1.9.1"
+    "dinero.js": "^1.9.1",
+    "nuxt": "^3.3.2",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "ndb": "^1.1.5"
-  }
+  },
+  "homepage": "https://github.com/tuscarvalho/unit_test#readme"
 }
